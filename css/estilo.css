@@ -1,0 +1,41 @@
+*{
+	box-sizing: border-box;
+}
+
+body{
+	margin: 0;
+	font-family: sans-serif;
+	background: #204862;
+}
+
+h1 {
+	color: #fff;
+	text-align: center;
+}
+
+.form-register{
+	width: 95%;
+	max-width: 500px;
+  margin: auto;
+	background: white;
+	border-radius: 7px;
+}
+
+.form__titulo{
+  background: deepskyblue;
+  color: #fff;
+  padding: 20px;
+  text-align: center;
+  font-size: 30px; 
+  border-top-left-radius: 7px;
+  border-top-right-radius: 7px;
+  border-bottom: 5 px solid crimsonM
+}
+.contenedor-inputs{
+  padding: 10px 30px;
+  display: flex;
+  flex-wrap: wrap;
+}
+input{
+
+}
